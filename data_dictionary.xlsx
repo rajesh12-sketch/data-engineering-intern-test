@@ -1,0 +1,15 @@
+| Column Name              | Description               |
+| ------------------------ | ------------------------- |
+| referral_id              | Unique referral ID        |
+| referral_source          | Source of referral        |
+| referral_source_category | Category of referral      |
+| referral_at              | Date referral created     |
+| referrer_id              | User who referred         |
+| referee_id               | Referred user             |
+| referee_name             | Name of referred user     |
+| referee_phone            | Phone number              |
+| transaction_id           | Transaction ID            |
+| transaction_status       | Status of payment         |
+| transaction_type         | Type of transaction       |
+| reward_value             | Reward amount             |
+| is_business_logic_valid  | Whether referral is valid |
